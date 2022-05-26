@@ -10,7 +10,7 @@ public class Main {
 
         int i = (int)l;
 
-        System.out.println("Double value " + d);
+        System.out.println("Sysytem ut " + d);
 
         System.out.println("Long value " + l);
 
