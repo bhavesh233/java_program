@@ -10,7 +10,9 @@ public class Main {
 
         int i = (int)l;
 
+
         System.out.println("Abcd " + d);
+
 
         System.out.println("Long value " + l);
 
