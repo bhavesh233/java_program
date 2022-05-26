@@ -18,7 +18,7 @@ public class First {
 
     public static void main(String[] args) throws Exception {
         Connection connect = getConnet();
-        System.out.println("   Print all the records which are from  not from Ahmedabad");
+        System.out.println("why");
         UpdateRecords.UpdateWhichJoinBefore6To12MonthBefore();
 //        UpdateRecords.UpdateRecordsWithDOB();
 //        selectTraineeDateDescending(connect);
