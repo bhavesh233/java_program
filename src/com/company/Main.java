@@ -13,7 +13,6 @@ public class Main {
 
         System.out.println("Abcd " + d);
 
-
         System.out.println("Long value " + l);
 
         System.out.println("Int value " + i);
