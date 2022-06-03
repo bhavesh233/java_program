@@ -30,6 +30,7 @@ public class Main {
         e1.department="Developement and tester";
 
         Manager m1=new Manager();
+        
         m1.name="Tulesh ";
         m1.Address="Mavadi,Rajkot";
         m1.age=20;
